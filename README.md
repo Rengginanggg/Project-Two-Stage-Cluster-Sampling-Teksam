@@ -834,3 +834,7 @@ Berdasarkan hasil penelitian yang telah dilakukan, terdapat beberapa saran yang 
 * Dinar, H. A., Sari, C. C., Raihanun, Z. N., & Puspa, W. (2026). Hubungan intensitas penggunaan media sosial dengan produktivitas belajar mahasiswa. *Musytari: Jurnal Manajemen, Akuntansi, dan Ekonomi*, 25(6), 891–900. https://doi.org/10.2324/gxh77433
 * Putri, D. M., Saputra, R. A., & Nugraha, F. P. (2026). Hubungan burnout akademik dengan produktivitas belajar mahasiswa perguruan tinggi. *Journal of Medical and Health Science*, 2(2), 87–94. https://doi.org/10.71094/jmhs.v2i2.450
 * Wijaya, R., & Nugroho, T. (2023). Produktivitas akademik mahasiswa dalam perspektif manajemen waktu dan motivasi belajar. *Jurnal Pendidikan Ekonomi*, 12(1), 34–44. https://doi.org/10.23887/jpe.v12i1.6721
+
+
+## Link Kuesioner:
+https://forms.gle/uUv1me3y2q7Xt1TF8
