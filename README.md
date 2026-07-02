@@ -40,13 +40,19 @@ Penelitian ini menggunakan **Two-Stage Cluster Sampling**, yaitu teknik pengambi
 Pada tahap pertama, unit sampling berupa **kelas** yang dikelompokkan berdasarkan angkatan. Pemilihan cluster dilakukan menggunakan proses randomisasi pada **Microsoft Excel** dengan fungsi `=RAND()` sehingga setiap cluster memiliki peluang yang sama untuk terpilih.
 
 Berdasarkan hasil randomisasi, cluster yang terpilih adalah sebagai berikut.
+
+Tabel 1. Hasil Pemilihan Cluster
+
 | No | Cluster |
 |----------|:------:|
 | 1 | 2024 A |
 | 2 | 2024 B |
+
 ### Tahap 2 — Pemilihan Responden
 
 Setelah cluster terpilih, dilakukan pemilihan responden secara acak pada masing-masing kelas menggunakan Microsoft Excel.
+
+Tabel 2. Responden Terpilih
 
 | Kelas | Jumlah Sampel |
 |:-----:|--------------:|
@@ -61,6 +67,8 @@ Setelah cluster terpilih, dilakukan pemilihan responden secara acak pada masing-
 Instrumen penelitian berupa kuesioner yang terdiri atas **12 butir pernyataan** mengenai prokrastinasi akademik.
 
 Skala pengukuran menggunakan **Skala Likert 4 poin**.
+
+Tabel 3. Skala Likert dan Keterangan Skor
 
 | Skor | Keterangan |
 |-----:|------------|
@@ -644,7 +652,7 @@ Penjelasan Syntax:
 # 1. Deskripsi Data
 Deskripsi data bertujuan untuk memberikan gambaran umum mengenai karakteristik data penelitian yang digunakan, khususnya pada variabel produktivitas akademik mahasiswa. Hasil analisis menunjukkan nilai rata-rata setiap item berada pada rentang 3.40 hingga 3.77 dengan standar deviasi yang relatif kecil, yang menunjukkan bahwa jawaban responden cenderung homogen.
 
- Statistik Deskriptif Total Skor
+Tabel 5. Statistik Deskriptif Total Skor
 
 | Statistik | Nilai |
 |----------|------:|
@@ -669,7 +677,7 @@ Jika **r hitung > r tabel (0,361)**, maka **H₀ ditolak** dan **H₁ diterima**
 
 Jika **r hitung ≤ r tabel (0,361)**, maka **H₀ diterima**, sehingga item dinyatakan **tidak valid**.
 
-Tabel ? Hasil Uji Validitas
+Tabel 6. Hasil Uji Validitas
 
 | Item | r hitung | Keputusan |
 |:----:|:---------:|:---------:|
@@ -703,6 +711,8 @@ Jika **Cronbach's Alpha < 0,70**, maka instrumen dinyatakan **Tidak Reliabel**.
 
 Output:
 
+Tabel 7. Uji Reliabilitas Instrumen Menggunakan Cronbach’s Alpha
+
 | Statistik | Nilai |
 |:----------|------:|
 | Cronbach's Alpha | 0.930 |
@@ -714,7 +724,7 @@ Berdasarkan hasil uji reliabilitas diperoleh nilai **Cronbach's Alpha sebesar 0,
    
 # 4. Statistik Deskriptif
 
-Tabel . Statistik Deskriptif Total Skor
+Tabel 8. Statistik Deskriptif Total Skor
 
 | Statistik | Nilai |
 |----------|------:|
@@ -729,6 +739,8 @@ Berdasarkan hasil statistik deskriptif, diperoleh nilai rata-rata total skor seb
 
 # 5. Distribusi Kategori
 
+Tabel 9. Distribusi Kategori Responden
+
 | Kategori | Jumlah |
 |----------|------:|
 | Rendah | 0 |
@@ -742,6 +754,8 @@ Hasil distribusi kategori menunjukkan bahwa sebagian besar responden berada pada
 Hal ini menunjukkan bahwa tingkat **Produktivitas Akademik Mahasiswa** cenderung tinggi pada sampel penelitian, sehingga mayoritas mahasiswa memiliki tingkat produktivitas yang baik berdasarkan total skor instrumen penelitian.
 
 # 6. Perhitungan Peluang Pemilihan sampel
+
+Tabel 10. Perhitungan Peluang Pemilihan Sampel
 
 | Komponen | Nilai |
 |----------|------:|
@@ -776,6 +790,8 @@ Hasil desain survei menunjukkan bahwa data penelitian telah dibentuk dalam struk
 
 # 9. Estimasi Tingkat Produktivitas Akademik
 
+Tabel 11. Statistik Deskriptif Produktivitas Akademik (Mean dan SE)
+
 | Variabel | Mean | SE |
 |----------|-----:|----:|
 | TOTAL | 43.033 | 0.4372 |
@@ -786,6 +802,8 @@ Hasil estimasi menunjukkan bahwa **rata-rata tingkat Produktivitas Akademik Maha
 
 ## 10.1 Interval Kepercayaan (95%)
 
+Tabel 12. Interval Kepercayaan 95% Estimasi Produktivitas Akademik
+
 | Variabel | Batas Bawah | Batas Atas |
 |----------|------------:|-----------:|
 | TOTAL | 42.177 | 43.890 |
@@ -794,6 +812,8 @@ Berdasarkan hasil perhitungan, diperoleh interval kepercayaan 95% sebesar **42,1
 
 ## 10.2 Design Effect (DEFF)
 
+Tabel 13. Design Effect (DEFF) Estimasi Produktivitas Akademik
+
 | Variabel | Mean | SE | DEFF |
 |----------|-----:|----:|-----:|
 | TOTAL | 43.033 | 0.437 | 0.283 |
@@ -801,6 +821,8 @@ Berdasarkan hasil perhitungan, diperoleh interval kepercayaan 95% sebesar **42,1
 Hasil perhitungan menunjukkan nilai **Design Effect (DEFF)** sebesar **0,283**. Nilai tersebut lebih kecil dari 1, sehingga menunjukkan bahwa desain **Two-Stage Cluster Sampling** yang digunakan memiliki efisiensi yang lebih baik dibandingkan dengan **Simple Random Sampling (SRS)** dalam penelitian ini. Dengan demikian, varians estimasi yang dihasilkan relatif lebih kecil sehingga estimasi menjadi lebih efisien.
 
 ## 10.3 Relative Standard Error (RSE)
+
+Tabel 14. Relative Standard Error (RSE) Estimasi Produktivitas Akademik
 
 | Variabel | Mean | SE | RSE (%) | Keputusan |
 |----------|-----:|----:|---------:|-----------|
